@@ -4,7 +4,7 @@ API REST completa desenvolvida em Flask para gerenciamento de pedidos de um sist
 
 ## 📋 Descrição
 
-Sistema web componentizado que oferece uma API REST para gerenciamento de pedidos, validação de endereços via ViaCEP e integração com catálogo de produtos do FakeStore. A API foi projetada para se comunicar com um front-end React e seguir as melhores práticas de desenvolvimento.
+Sistema web componentizado que oferece uma API REST para gerenciamento de pedidos, validação de endereços via ViaCEP. A API foi projetada para se comunicar com um front-end React e seguir as melhores práticas de desenvolvimento.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -18,7 +18,6 @@ Sistema web componentizado que oferece uma API REST para gerenciamento de pedido
 - **Requests** - Cliente HTTP para APIs externas
 - **Docker** - Containerização
 - **ViaCEP API** - Validação de CEP
-- **FakeStore API** - Catálogo de produtos
 
 ## 📦 Pré-requisitos
 
